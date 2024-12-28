@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OmG001
+- 👋 Hi, I’m Om Goyal
 - 👀 I’m interested in Data Analytics and Visualization. 
 - 🌱 I’m currently learning more about Data Analytics.
 - 💞️ I want to collaborate as a Data Analyst/ Business Analyst.
